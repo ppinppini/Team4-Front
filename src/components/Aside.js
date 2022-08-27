@@ -50,7 +50,7 @@ const Wrapper = styled.aside`
 const Rank = styled.div`
   width: 100%;
   div {
-    font-size: 20px;
+    font-size: 24px;
     padding: 10px;
   }
 `;
@@ -61,5 +61,5 @@ const Title = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 30px;
+  font-size: 40px;
 `;
