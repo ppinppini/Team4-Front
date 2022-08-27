@@ -51,7 +51,8 @@ const Rank = styled.div`
   width: 100%;
   div {
     font-size: 22px;
-    padding: 20px;
+    margin: 20px;
+    cursor: pointer;
   }
 `;
 
