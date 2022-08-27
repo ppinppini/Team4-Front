@@ -46,7 +46,7 @@ const Wrapper = styled.nav`
   display: flex;
   justify-content: space-evenly;
   width: 85vw;
-  height: 10vh;
+  height: 100px;
   border-bottom: 1px solid #333;
   div {
     font-size: 20px;

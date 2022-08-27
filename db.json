@@ -29,7 +29,7 @@
       "stuff": ["오뎅", "물"],
       "recipe": "대충 쓰윽 쓱",
       "alcohol": { "id": 1, "name": "처음처럼" },
-      "star": 0
+      "star": 1
     },
     {
       "id": 2,
@@ -38,7 +38,7 @@
       "stuff": ["오뎅", "물"],
       "recipe": "대충 쓰윽 쓱",
       "alcohol": { "id": 1, "name": "처음처럼" },
-      "star": 0
+      "star": 2
     },
     {
       "id": 3,
@@ -47,10 +47,118 @@
       "stuff": ["오뎅", "물"],
       "recipe": "대충 쓰윽 쓱",
       "alcohol": { "id": 1, "name": "처음처럼" },
-      "star": 0
+      "star": 3
     },
     {
       "id": 4,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 4
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 5
+    },
+    {
+      "id": 6,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 7,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 8,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 9,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 10,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 11,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 12,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 13,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 14,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 15,
+      "category": 1,
+      "title": "오뎅탕",
+      "stuff": ["오뎅", "물"],
+      "recipe": "대충 쓰윽 쓱",
+      "alcohol": { "id": 1, "name": "처음처럼" },
+      "star": 0
+    },
+    {
+      "id": 16,
       "category": 1,
       "title": "오뎅탕",
       "stuff": ["오뎅", "물"],

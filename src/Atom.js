@@ -4,3 +4,8 @@ export const currentCategoryState = atom({
   key: "currentCategoryState",
   default: 1,
 });
+
+export const cardsState = atom({
+  key: "cardsState",
+  default: [],
+});
