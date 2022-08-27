@@ -35,6 +35,7 @@ const Img = styled.img`
   height: 60%;
   object-fit: cover;
   display: block;
+  border-radius: 25px;
 `;
 
 const Title = styled.div`

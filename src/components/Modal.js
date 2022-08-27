@@ -102,6 +102,7 @@ const Rec = styled.div`
     width: 300px;
     object-fit: contain;
     height: 300px;
+    border-radius: 30px;
   }
 `;
 const Alcohol = styled.div`
@@ -110,6 +111,7 @@ const Alcohol = styled.div`
 const Img = styled.img`
   width: 60%;
   object-fit: cover;
+  border-radius: 30px;
 `;
 const Recipe = styled.div`
   width: 100%;
@@ -124,6 +126,7 @@ const Stuff = styled.div`
 `;
 const SubTitle = styled.div`
   font-size: 30px;
+  margin-bottom: 10px;
 `;
 
 const Wrapper = styled.div`
