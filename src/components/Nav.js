@@ -14,7 +14,6 @@ export default function Nav() {
       .get("http://localhost:3001/categories")
       .then((res) => {
         setCategories(res.data);
-        console.log(res.data);
       })
       .catch((err) => {
         console.log(err);
