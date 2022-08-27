@@ -50,8 +50,8 @@ const Wrapper = styled.aside`
 const Rank = styled.div`
   width: 100%;
   div {
-    font-size: 24px;
-    padding: 10px;
+    font-size: 22px;
+    padding: 20px;
   }
 `;
 
