@@ -1,8 +1,9 @@
 import styled from "@emotion/styled";
-import { useRecoilValue } from "recoil";
-import { cardsState } from "../Atom";
+import { useRecoilValue, useSetRecoilState } from "recoil";
+import { cardsState, selectedRecipeState } from "../Atom";
 
 export default function Aside() {
+  const setSelectedRecipe = useSetRecoilState(selectedRecipeState);
   const sortedCards = [...useRecoilValue(cardsState)].sort((a, b) => {
     if (a.star < b.star) {
       return 1;
@@ -19,8 +20,13 @@ export default function Aside() {
       <Rank>
         {sortedCards.map((card, i) => {
           return (
-            <div key={i}>
-              {i + 1}: {card.id}
+            <div
+              key={i}
+              onClick={() => {
+                setSelectedRecipe(card.id);
+              }}
+            >
+              {i + 1}. {card.title}
             </div>
           );
         })}
@@ -42,6 +48,7 @@ const Wrapper = styled.aside`
 const Rank = styled.div`
   width: 100%;
   div {
+    font-size: 30px;
     padding: 10px;
   }
 `;
