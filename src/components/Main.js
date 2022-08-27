@@ -15,5 +15,7 @@ const Wrapper = styled.main`
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 85vw;
   min-height: 100vh;
+  margin-left: 15vw;
 `;

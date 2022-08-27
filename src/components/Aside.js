@@ -31,7 +31,9 @@ export default function Aside() {
 
 const Wrapper = styled.aside`
   width: 15vw;
+  height: 100vh;
   border-right: 1px solid #333;
+  position: fixed;
   display: flex;
   flex-direction: column;
   align-items: center;

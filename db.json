@@ -26,12 +26,20 @@
       "id": 1,
       "category": 1,
       "title": "오뎅탕",
-      "img": "https://...",
+      "img": "https://blog.kakaocdn.net/dn/bLSyUa/btq1bf4hXDC/wIcizyKAvrbCSbO6aAHyL1/img.jpg",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://blog.kakaocdn.net/dn/bLSyUa/btq1bf4hXDC/wIcizyKAvrbCSbO6aAHyL1/img.jpg"
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://blog.kakaocdn.net/dn/bLSyUa/btq1bf4hXDC/wIcizyKAvrbCSbO6aAHyL1/img.jpg"
+        }
       ],
       "star": 1
     },
