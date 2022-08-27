@@ -93,7 +93,7 @@
           "img": "https://file.mk.co.kr/meet/neds/2019/04/image_readtop_2019_210568_15544980623699031.jpg"
         }
       ],
-      "star": 3
+      "star": 2
     },
     {
       "id": 3,
@@ -123,7 +123,7 @@
           "img": "https://file.hitejinro.com/hitejinro2016/upFiles/brand/KR/PACKAGE/20200724_75645293.png"
         }
       ],
-      "star": 12
+      "star": 3
     },
     {
       "id": 4,
@@ -156,7 +156,7 @@
           "img": "https://file.mk.co.kr/meet/neds/2020/05/image_readtop_2020_536855_15904607324214665.jpg"
         }
       ],
-      "star": 14
+      "star": 4
     },
     {
       "id": 5,
@@ -195,7 +195,7 @@
       "category": 1,
       "title": "떡꼬치",
       "level": "난이도★★★★★",
-      "img": "https://...",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/5f9aa78293f3c2d67ddfdeba631bfecc1.jpg ",
       "stuff": [
         "떡볶이 떡",
         "케찹",
@@ -207,305 +207,53 @@
         "다진마늘"
       ],
       "recipe": [
-        "오뎅 까고",
-        "물 부어"
+        "말랑한 떡을 물기 제거 후, 산적 고치나 이쑤시개를 활용해 끼워주기",
+        " 팬에 기름을 적당히 두르고 열이 오르면 떡을 앞, 뒤로 구워주기",
+        " 겉이 살짝 바삭해진 떡은 키친타월로 기름을 제거하기",
+        "양념들을 모두 넣어 준 후 떡에 바르기"
       ],
       "alcohol": [
         {
           "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
+          "name": "진로",
+          "img": "https://img.hankyung.com/photo/202103/01.25853410.1.jpg"
         }
       ],
-      "star": 16
+      "star": 0
     },
     {
       "id": 7,
       "category": 1,
-      "title": "오뎅탕",
+      "title": "바지락 술 찜",
       "level": "난이도★★★★★",
-      "img": "https://...",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/24/7fa33d9ec971c4f3236ef2525fd392e31.jpg",
       "stuff": [
-        "오뎅",
-        "물"
+        "바지락",
+        "마늘",
+        "페퍼론치노",
+        "대파",
+        "버터",
+        "소주",
+        "올리브오일"
       ],
       "recipe": [
-        "오뎅 까고",
-        "물 부어"
+        "1. 바지락은 깨끗이 씻고 마늘과 대파를 잘게 썰기",
+        "2. 냄비에 올리브 오일을 살짝 뿌리고 버터와 마늘을 넣고 튀기듯 볶아주기",
+        "2. 냄비에 올리브 오일을 살짝 뿌리고 버터와 마늘을 넣고 튀기듯 볶아주기",
+        "4. 바지락을 넣고 살짝만 볶아준 뒤 소주 100ml를 넣고 뚜껑을 덮기",
+        "5. 바지락이 익었으면 후추 뿌려주기"
       ],
       "alcohol": [
         {
           "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
+          "name": "진로",
+          "img": "https://img.hankyung.com/photo/202103/01.25853410.1.jpg"
         }
       ],
       "star": 0
     },
     {
-      "id": 8,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 9,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 10,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 11,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 12,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 13,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 14,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 15,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 16,
-      "category": 1,
-      "title": "오뎅탕",
-      "level": "난이도★★★★★",
-      "img": "https://...",
-      "stuff": [
-        "오뎅",
-        "물"
-      ],
-      "recipe": [
-        "오뎅 까고",
-        "물 부어"
-      ],
-      "alcohol": [
-        {
-          "id": 1,
-          "name": "처음처럼",
-          "img": "https://..."
-        },
-        {
-          "id": 2,
-          "name": "참이슬",
-          "img": "https://..."
-        }
-      ],
-      "star": 0
-    },
-    {
-      "id": 5,
+      "id": 17,
       "category": 2,
       "title": "콘치즈",
       "level": "난이도★★★★★",
@@ -534,7 +282,7 @@
       "star": 0
     },
     {
-      "id": 6,
+      "id": 18,
       "category": 2,
       "title": "번데기탕",
       "level": "난이도★★★★★",
@@ -564,7 +312,7 @@
       "star": 0
     },
     {
-      "id": 7,
+      "id": 19,
       "category": 2,
       "title": "식빵팝콘",
       "level": "난이도★★★★★",
@@ -590,7 +338,7 @@
       "star": 0
     },
     {
-      "id": 8,
+      "id": 20,
       "category": 2,
       "title": "오징어 버터구이",
       "level": "난이도★★★★★",
@@ -619,7 +367,7 @@
       "star": 0
     },
     {
-      "id": 9,
+      "id": 21,
       "category": 3,
       "title": "오뎅탕",
       "level": "난이도★★★★★",
@@ -653,7 +401,7 @@
       "star": 0
     },
     {
-      "id": 10,
+      "id": 22,
       "category": 3,
       "title": "두부계란탕",
       "level": "난이도★★★★★",
@@ -686,7 +434,7 @@
       "star": 0
     },
     {
-      "id": 11,
+      "id": 23,
       "category": 3,
       "title": "두부김치",
       "level": "난이도★★★★★",
@@ -719,7 +467,7 @@
       "star": 0
     },
     {
-      "id": 12,
+      "id": 24,
       "category": 3,
       "title": "돼지고기 김치찌개",
       "level": "난이도★★★★★",
@@ -751,7 +499,7 @@
       "star": 0
     },
     {
-      "id": 13,
+      "id": 25,
       "category": 4,
       "title": "새우감바스",
       "level": "난이도★★★★★",
@@ -784,7 +532,7 @@
       "star": 0
     },
     {
-      "id": 14,
+      "id": 26,
       "category": 4,
       "title": "참치 카나페",
       "level": "난이도★★★★★",
@@ -816,7 +564,7 @@
       "star": 0
     },
     {
-      "id": 15,
+      "id": 27,
       "category": 4,
       "title": "콘치즈 카레 나쵸",
       "level": "난이도★★★★★",
@@ -847,7 +595,7 @@
       "star": 0
     },
     {
-      "id": 16,
+      "id": 28,
       "category": 4,
       "title": "가지그라탕",
       "level": "난이도★★★★★",
@@ -880,7 +628,7 @@
       "star": 0
     },
     {
-      "id": 17,
+      "id": 29,
       "category": 5,
       "title": "골뱅이무침",
       "level": "난이도★★★★★",
@@ -915,7 +663,7 @@
       "star": 0
     },
     {
-      "id": 18,
+      "id": 30,
       "category": 5,
       "title": "크림새우",
       "level": "난이도★★★★★",
@@ -943,7 +691,7 @@
       "star": 0
     },
     {
-      "id": 19,
+      "id": 31,
       "category": 5,
       "title": "김치전",
       "level": "난이도★★★★★",
@@ -971,7 +719,7 @@
       "star": 0
     },
     {
-      "id": 20,
+      "id": 32,
       "category": 5,
       "title": "소세지 야채볶음",
       "level": "난이도★★★★★",

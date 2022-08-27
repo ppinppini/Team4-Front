@@ -1,13 +1,14 @@
 import styled from "@emotion/styled";
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { useSetRecoilState } from "recoil";
+import { useRecoilState, useSetRecoilState } from "recoil";
 import { currentCategoryState } from "../Atom";
 
 export default function Nav() {
   const [categories, setCategories] = useState([]);
 
-  const setCurrentCategory = useSetRecoilState(currentCategoryState);
+  const [currentCategory, setCurrentCategory] =
+    useRecoilState(currentCategoryState);
 
   const getCategories = async () => {
     await axios
@@ -27,6 +28,19 @@ export default function Nav() {
   return (
     <Wrapper>
       {categories.map((category, i) => {
+        if (currentCategory === i + 1) {
+          return (
+            <div
+              style={{ fontSize: "30px" }}
+              key={i}
+              onClick={() => {
+                setCurrentCategory(category.id);
+              }}
+            >
+              {category.title}
+            </div>
+          );
+        }
         return (
           <div
             key={i}

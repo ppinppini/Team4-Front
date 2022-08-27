@@ -18,15 +18,15 @@ export default function Card({ card }) {
 }
 
 const Wrapper = styled.div`
-  flex: 1 1 20%;
   height: 400px;
+  width: 333px;
   display: flex;
   flex-direction: column;
   border-radius: 30px;
   align-items: center;
   gap: 20px;
   justify-content: center;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 `;
 
 const Img = styled.img`
