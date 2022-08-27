@@ -26,11 +26,12 @@
       "id": 1,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 1
     },
@@ -38,11 +39,12 @@
       "id": 2,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 2
     },
@@ -50,11 +52,12 @@
       "id": 3,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 3
     },
@@ -62,11 +65,12 @@
       "id": 4,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 4
     },
@@ -74,11 +78,12 @@
       "id": 5,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 5
     },
@@ -86,11 +91,12 @@
       "id": 6,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -98,11 +104,12 @@
       "id": 7,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -110,11 +117,12 @@
       "id": 8,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -122,11 +130,12 @@
       "id": 9,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -134,11 +143,12 @@
       "id": 10,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -146,11 +156,12 @@
       "id": 11,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -158,11 +169,12 @@
       "id": 12,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -170,11 +182,12 @@
       "id": 13,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -182,11 +195,12 @@
       "id": 14,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -194,11 +208,12 @@
       "id": 15,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -206,11 +221,12 @@
       "id": 16,
       "category": 1,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -218,11 +234,12 @@
       "id": 5,
       "category": 2,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -230,11 +247,12 @@
       "id": 6,
       "category": 2,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -242,11 +260,12 @@
       "id": 7,
       "category": 2,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -254,11 +273,12 @@
       "id": 8,
       "category": 2,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -266,11 +286,12 @@
       "id": 9,
       "category": 3,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -278,11 +299,12 @@
       "id": 10,
       "category": 3,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -290,11 +312,12 @@
       "id": 11,
       "category": 3,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -302,11 +325,12 @@
       "id": 12,
       "category": 3,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -314,11 +338,12 @@
       "id": 13,
       "category": 4,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -326,11 +351,12 @@
       "id": 14,
       "category": 4,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -338,11 +364,12 @@
       "id": 15,
       "category": 4,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -350,11 +377,12 @@
       "id": 16,
       "category": 4,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -362,11 +390,12 @@
       "id": 17,
       "category": 5,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -374,11 +403,12 @@
       "id": 18,
       "category": 5,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -386,11 +416,12 @@
       "id": 19,
       "category": 5,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     },
@@ -398,11 +429,12 @@
       "id": 20,
       "category": 5,
       "title": "오뎅탕",
+      "img": "https://...",
       "stuff": ["오뎅", "물"],
       "recipe": ["오뎅 까고", "물 부어"],
       "alcohol": [
-        { "id": 1, "name": "처음처럼" },
-        { "id": 2, "name": "참이슬" }
+        { "id": 1, "name": "처음처럼", "img": "https://..." },
+        { "id": 2, "name": "참이슬", "img": "https://..." }
       ],
       "star": 0
     }
