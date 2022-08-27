@@ -43,5 +43,5 @@ const Wrapper = styled.div`
   gap: 20px;
   margin-top: 100px;
   padding: 20px;
-  width: calc(85vw - 40px);
+  width: 85vw;
 `;
