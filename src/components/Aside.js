@@ -1,10 +1,6 @@
 import styled from "@emotion/styled";
-import { useRecoilValue } from "recoil";
-import { currentCategoryState } from "../Atom";
 
 export default function Aside() {
-  const currentCategory = useRecoilValue(currentCategoryState);
-
   return (
     <Wrapper>
       <Title>랭킹</Title>

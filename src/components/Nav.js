@@ -1,11 +1,11 @@
 import styled from "@emotion/styled";
 import axios from "axios";
-import { useEffect } from "react";
-import { useRecoilState, useSetRecoilState } from "recoil";
-import { categoriesState, currentCategoryState } from "../Atom";
+import { useEffect, useState } from "react";
+import { useSetRecoilState } from "recoil";
+import { currentCategoryState } from "../Atom";
 
 export default function Nav() {
-  const [categories, setCategories] = useRecoilState(categoriesState);
+  const [categories, setCategories] = useState([]);
 
   const setCurrentCategory = useSetRecoilState(currentCategoryState);
 
