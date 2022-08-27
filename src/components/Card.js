@@ -18,21 +18,24 @@ export default function Card({ card }) {
 }
 
 const Wrapper = styled.div`
-  border: 1px solid #333;
   flex: 1 1 20%;
   height: 400px;
   display: flex;
   flex-direction: column;
+  border-radius: 30px;
   align-items: center;
   gap: 20px;
   justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 `;
 
 const Img = styled.img`
   width: 70%;
+  height: 60%;
+  object-fit: cover;
   display: block;
 `;
 
 const Title = styled.div`
-  font-size: 50px;
+  font-size: 30px;
 `;

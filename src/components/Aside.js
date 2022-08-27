@@ -48,7 +48,7 @@ const Wrapper = styled.aside`
 const Rank = styled.div`
   width: 100%;
   div {
-    font-size: 30px;
+    font-size: 20px;
     padding: 10px;
   }
 `;

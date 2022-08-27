@@ -40,8 +40,8 @@ export default function Cards() {
 const Wrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 60px;
   margin-top: 100px;
-  padding: 20px;
+  padding: 60px;
   width: 85vw;
 `;

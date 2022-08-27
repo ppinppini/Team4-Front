@@ -26,6 +26,7 @@
       "id": 1,
       "category": 1,
       "title": "순대볶음",
+      "level": "난이도★★★★★",
       "img": "https://static.wtable.co.kr/image/production/service/recipe/720/40172e91-4f80-429c-8cd7-9b5f7d6994e8.jpg",
       "stuff": [
         "순대",
@@ -52,15 +53,19 @@
         "(7) 순대볶음 위에 채 썰어놓은 깻잎과 통깨 올릴 시 완성"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://www.thinkfood.co.kr/news/photo/201911/85788_110660_2515.jpg"
+        }
       ],
-      "star": 1
+      "star": 2
     },
     {
       "id": 2,
       "category": 1,
       "title": "닭 가슴살 양파 볶음",
+      "level": "난이도★★★★★",
       "img": "data:image/jpeg;base64,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",
       "stuff": [
         "양파 1.5개",
@@ -82,15 +87,19 @@
         "(5) 양파가 투명해 질 쯤 닭 가슴살, 고추, 통깨, 후춧가루, 참기름을 조금  넣고 섞기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://file.mk.co.kr/meet/neds/2019/04/image_readtop_2019_210568_15544980623699031.jpg"
+        }
       ],
-      "star": 2
+      "star": 3
     },
     {
       "id": 3,
       "category": 1,
       "title": "해물파전",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/29/19ea74f464f2faf18ed5ed534fed84f01.jpg",
       "stuff": [
         "밀가루 1공기",
@@ -108,15 +117,19 @@
         "(5) 반죽에 부추, 오징어를 섞은 후 팬에 식용유를 두르고 강불에 바삭하게 전 부치기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "이슬톡톡",
+          "img": "https://file.hitejinro.com/hitejinro2016/upFiles/brand/KR/PACKAGE/20200724_75645293.png"
+        }
       ],
-      "star": 3
+      "star": 12
     },
     {
       "id": 4,
       "category": 1,
       "title": "대패 삽겹살 간장 볶음",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/5384361e57e9c1990b0a98cb61de15961.jpg",
       "stuff": [
         "대패 삼겹살 300g",
@@ -137,15 +150,19 @@
         "(5) 대패삼겹살은 접시에 담고 그 위에 대파와 깨를 뿌리기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "곰표",
+          "img": "https://file.mk.co.kr/meet/neds/2020/05/image_readtop_2020_536855_15904607324214665.jpg"
+        }
       ],
-      "star": 4
+      "star": 14
     },
     {
       "id": 5,
       "category": 1,
       "title": "비엔나 만두 강정 ",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/05e4e16467b13cc29ffa7c1d07e8cc911.jpg",
       "stuff": [
         "만두10개",
@@ -165,34 +182,73 @@
         "(4) 양념이 어느 정도 베이면 통깨를 뿌려 마무리"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "진로",
+          "img": "https://img.hankyung.com/photo/202103/01.25853410.1.jpg"
+        }
       ],
       "star": 5
     },
     {
       "id": 6,
       "category": 1,
-      "title": "오뎅탕",
+      "title": "떡꼬치",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
-      "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+      "stuff": [
+        "떡볶이 떡",
+        "케찹",
+        "설탕",
+        "진간장",
+        "올리고당",
+        "통깨",
+        "고추장",
+        "다진마늘"
       ],
-      "star": 0
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
+      "alcohol": [
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
+      ],
+      "star": 16
     },
     {
       "id": 7,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -200,12 +256,27 @@
       "id": 8,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -213,12 +284,27 @@
       "id": 9,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -226,12 +312,27 @@
       "id": 10,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -239,12 +340,27 @@
       "id": 11,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -252,12 +368,27 @@
       "id": 12,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -265,12 +396,27 @@
       "id": 13,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -278,12 +424,27 @@
       "id": 14,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -291,12 +452,27 @@
       "id": 15,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -304,12 +480,27 @@
       "id": 16,
       "category": 1,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "stuff": [
+        "오뎅",
+        "물"
+      ],
+      "recipe": [
+        "오뎅 까고",
+        "물 부어"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "처음처럼",
+          "img": "https://..."
+        },
+        {
+          "id": 2,
+          "name": "참이슬",
+          "img": "https://..."
+        }
       ],
       "star": 0
     },
@@ -317,6 +508,7 @@
       "id": 5,
       "category": 2,
       "title": "콘치즈",
+      "level": "난이도★★★★★",
       "img": "https://mblogthumb-phinf.pstatic.net/MjAxODAxMjBfOTIg/MDAxNTE2NDA4MDQ0Mjg4.ky33XY6Qa5fud3eL26cZIA-IqlC68m_JWjNR1EGDA0kg.Vmi55V9cJvxeO7tVi1B7xVovxmNB9HlSCxGEoia-az0g.JPEG.dungi355/image_2542111851516407143165.jpg?type=w800",
       "stuff": [
         "캔옥수수",
@@ -333,8 +525,11 @@
         "4. 뚜껑 닫고 약불에서 치즈 녹여주기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "칭따오",
+          "img": "http://m.assabeer.com/web/product/big/202011/8e193520ce630daf49022c416b8c5aab.jpg"
+        }
       ],
       "star": 0
     },
@@ -342,6 +537,7 @@
       "id": 6,
       "category": 2,
       "title": "번데기탕",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/25/5131ddba7d430fda0d848bfdec853a351.jpg",
       "stuff": [
         "번데기",
@@ -359,8 +555,11 @@
         "4. 물이 끓어오르면 불 끄기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "카스",
+          "img": "https://image.newdaily.co.kr/site/data/img/2019/10/14/2019101400143_0.jpg"
+        }
       ],
       "star": 0
     },
@@ -368,8 +567,13 @@
       "id": 7,
       "category": 2,
       "title": "식빵팝콘",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/24/cb22192588d8baec45bc7516f08210d51.JPG",
-      "stuff": ["식빵", "식용유", "설탕"],
+      "stuff": [
+        "식빵",
+        "식용유",
+        "설탕"
+      ],
       "recipe": [
         "1.식빵을 작게 잘라주기",
         "2.봉투에 식빵,설탕,식용유를 넣고 흔들어주기",
@@ -377,8 +581,11 @@
         "뒤집어서 똑같이 구워주기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "장수막걸리",
+          "img": "https://cphoto.asiae.co.kr/listimglink/6/2022020513462032706_1644036392.jpg"
+        }
       ],
       "star": 0
     },
@@ -386,8 +593,16 @@
       "id": 8,
       "category": 2,
       "title": "오징어 버터구이",
+      "level": "난이도★★★★★",
       "img": "http://www.menupan.com/Cook/CookIMG/037800.JPG",
-      "stuff": ["오징어", "올리고당", "소금", "간장", "설탕", "버터"],
+      "stuff": [
+        "오징어",
+        "올리고당",
+        "소금",
+        "간장",
+        "설탕",
+        "버터"
+      ],
       "recipe": [
         "1. 오징어를 깨끗하게 씻어주기",
         "2.프라이팬에 기름을 두르고 오징어 볶아주기",
@@ -395,8 +610,11 @@
         "4.버터를 넣고 볶아주기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "참이슬",
+          "img": "https://m.hitejinro.com/assets/images/socialmedia/chamisul_fresh_bottle_new.png"
+        }
       ],
       "star": 0
     },
@@ -404,6 +622,7 @@
       "id": 9,
       "category": 3,
       "title": "오뎅탕",
+      "level": "난이도★★★★★",
       "img": "https://blog.kakaocdn.net/dn/bLSyUa/btq1bf4hXDC/wIcizyKAvrbCSbO6aAHyL1/img.jpg",
       "stuff": [
         "어묵",
@@ -425,8 +644,11 @@
         "(5) 육수를 팔팔 끓이다 데친 어묵, 소금, 쯔유로 간을 맞추기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "예거라들러",
+          "img": "https://cdn.dailycnc.com/news/photo/202006/101986_197399_4053.jpg"
+        }
       ],
       "star": 0
     },
@@ -434,6 +656,7 @@
       "id": 10,
       "category": 3,
       "title": "두부계란탕",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/6716425779578fe816c03a04571e23cc.jpg",
       "stuff": [
         "참기름 1작은술",
@@ -454,8 +677,11 @@
         "(5) 기호에 맞게 소금 간 이후, 불을 끄고 데쳐둔 브로콜리를 넣고 참기름 1작은 술과 깨 넣기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "가또 네그로",
+          "img": "https://cdn.imweb.me/upload/S201805075af0125698fa0/49057e167ac81.png"
+        }
       ],
       "star": 0
     },
@@ -463,6 +689,7 @@
       "id": 11,
       "category": 3,
       "title": "두부김치",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/06822a9fe6e7213aeb0e3fb0ff19ee3c1.jpg",
       "stuff": [
         "두부 1모",
@@ -483,8 +710,11 @@
         "(4) 설탕, 고춧가루, 간장, 마늘, 물을 넣고 졸여주기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "까시예로 델 디아블로",
+          "img": "https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138398.jpg"
+        }
       ],
       "star": 0
     },
@@ -492,6 +722,7 @@
       "id": 12,
       "category": 3,
       "title": "돼지고기 김치찌개",
+      "level": "난이도★★★★★",
       "img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/07/3bb8e32ea170ebf850a9bb31aa23e1121.jpg",
       "stuff": [
         "김치1쪽",
@@ -511,8 +742,11 @@
         "(5) 양파와 청양고추를 넣고 5분간 더 끓이기"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "네이처 사운드 쉬라즈",
+          "img": "https://cdn.pressm.kr/news/photo/202005/29992_17372_5158.jpg"
+        }
       ],
       "star": 0
     },
@@ -520,7 +754,8 @@
       "id": 13,
       "category": 4,
       "title": "새우감바스",
-      "img": "https://...",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/12/4dcbfb78c01860edb1c97e3498c28ee11.jpg",
       "stuff": [
         "냉동새우",
         "올리브오일40ml",
@@ -540,8 +775,11 @@
         "7. 재료가 잘 볶아지면 불끄고 빵이 있다면 빵과 함께 먹으면 최고."
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "애플폭스",
+          "img": "https://mblogthumb-phinf.pstatic.net/MjAxOTA3MDRfMjc4/MDAxNTYyMjQ2MDU4NjU5.trwke9ONWynnm-77KHni57VDuqJVoD1gITxKxzpZwVMg.Nv4KFV_5mwD2e_ciTRohtbsmjI0ypEBeldzjkkOi_mUg.JPEG.stable_navel/%EC%95%A0%ED%94%8C_%ED%8F%AD%EC%8A%A4_%EC%82%AC%EC%9D%B4%EB%8B%A4.jpg?type=w800"
+        }
       ],
       "star": 0
     },
@@ -549,7 +787,8 @@
       "id": 14,
       "category": 4,
       "title": "참치 카나페",
-      "img": "https://...",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/4db32233736b8ce5e68f5bacc4c6eb841.jpg",
       "stuff": [
         "참치 1캔",
         "참크래커 약 5봉지",
@@ -568,8 +807,11 @@
         "6. 반으로 썬 방울토마토 올려주면 마무리"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "옐로우 테일즈 쉬라즈",
+          "img": "https://wine21.speedgabia.com/WINE_MST/TITLE/0142000/W0142835.jpg"
+        }
       ],
       "star": 0
     },
@@ -577,7 +819,8 @@
       "id": 15,
       "category": 4,
       "title": "콘치즈 카레 나쵸",
-      "img": "https://...",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/04f4d659075e3501a053fb56c3f4bca21.jpg",
       "stuff": [
         "오뚜기 카레가루 1봉",
         "나쵸집 1봉",
@@ -595,8 +838,11 @@
         "6. 잘섞인 나쵸칩을 그릇에 깔고 그위에 콘치즈를 올려서 냐암"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "마인더 화이트 모스카토",
+          "img": "https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155899.jpg"
+        }
       ],
       "star": 0
     },
@@ -604,7 +850,8 @@
       "id": 16,
       "category": 4,
       "title": "가지그라탕",
-      "img": "https://...",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/02bb0b69dd641ca61b879dc82c35a0f3.jpg",
       "stuff": [
         "가지1개",
         "베이컨 2줄",
@@ -624,60 +871,134 @@
         "7. 에어프라이기 12분 돌리면 마무리"
       ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "지평막걸리",
+          "img": "https://modo-phinf.pstatic.net/20190326_9/1553578636688OIOp9_JPEG/mosaOEOdxm.jpeg?type=w1100"
+        }
       ],
       "star": 0
     },
     {
       "id": 17,
       "category": 5,
-      "title": "오뎅탕",
-      "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "title": "골뱅이무침",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/19/306fc1686429da67828df40fa77c48a21.jpg",
+      "stuff": [
+        "당근",
+        "오이",
+        "양파",
+        "대파",
+        "소면",
+        "고추장",
+        "고춧가루",
+        "설탕",
+        "식초",
+        "다진마늘",
+        "참기름",
+        "깨"
+      ],
+      "recipe": [
+        "1. 당근, 오이, 양파, 대파, 청양고추 썰어주기",
+        "2. 고추장 3.5 큰 술, 고운 고춧가루 1 큰 술, 설탕 3.5 큰 술, 식초 3.5 큰 술, 다진 마늘 1 큰 술, 참기름 1 큰 술, 깨를 넣고 섞어서 양념장 만들기",
+        "3. 야채와 골뱅이, 양념장 넣고 무쳐주기",
+        "1. 소면은 끓는 물에서 3-4분간 삶은 후 물기 빼주기"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "한라산",
+          "img": "https://file.mk.co.kr/meet/neds/2017/09/image_readtop_2017_605662_15049044643022080.jpg"
+        }
       ],
       "star": 0
     },
     {
       "id": 18,
       "category": 5,
-      "title": "오뎅탕",
-      "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "title": "크림새우",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/eefee6abe37a21262025025b8a833ddf1.jpg",
+      "stuff": [
+        "새우",
+        "튀김가루",
+        "물",
+        "마요네즈",
+        "설탕"
+      ],
+      "recipe": [
+        "1. 튀김가루와 물을 2:1로 섞어주기",
+        "2. 새우 물기를 제거해주고 새우에 튀김물 뭍혀주기",
+        "3. 새우를 기름에 튀겨주기",
+        "4. 프라이팬에 소스랑 새우를 잘 섞어주기"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "필굿",
+          "img": "https://img.etnews.com/photonews/2007/1318145_20200708135700_715_0001.jpg"
+        }
       ],
       "star": 0
     },
     {
       "id": 19,
       "category": 5,
-      "title": "오뎅탕",
-      "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "title": "김치전",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/02/ddafc8912fdd1c261dd673cec48b96861.jpg",
+      "stuff": [
+        "김치",
+        "부침가루",
+        "김치국물",
+        "물",
+        "고추"
+      ],
+      "recipe": [
+        "1. 김치는 가위로 잘라주고 참치는 기름 빼주기",
+        "2. 김치국물에 물을 섞어 부침가루와 섞어주기",
+        "3. 재료를 다 섞어주",
+        "4. 기름을 두르고 전을 부쳐주기"
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "필굿",
+          "img": "https://img.etnews.com/photonews/2007/1318145_20200708135700_715_0001.jpg"
+        }
       ],
       "star": 0
     },
     {
       "id": 20,
       "category": 5,
-      "title": "오뎅탕",
-      "img": "https://...",
-      "stuff": ["오뎅", "물"],
-      "recipe": ["오뎅 까고", "물 부어"],
+      "title": "소세지 야채볶음",
+      "level": "난이도★★★★★",
+      "img": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/03/ee34a886695dd69c8df2996d27671be51.jpg",
+      "stuff": [
+        "소시지",
+        "양파1/2개",
+        "마늘",
+        "당근",
+        "케첩",
+        "굴소스",
+        "설탕",
+        "물"
+      ],
+      "recipe": [
+        "마늘, 양파, 당근 썰어주기",
+        "소시지는 칼집을 내주기",
+        "마늘이 투명해질 때까지 볶아준 뒤 당근, 양파를 넣어 볶기",
+        " 소시지를 넣고 살짝 볶은 뒤 물, 케첩, 굴소스, 설탕, 후추를 넣고 섞어주기",
+        "소스가 적당히 남을 때까지 볶아주면 끝."
+      ],
       "alcohol": [
-        { "id": 1, "name": "처음처럼", "img": "https://..." },
-        { "id": 2, "name": "참이슬", "img": "https://..." }
+        {
+          "id": 1,
+          "name": "필굿",
+          "img": "https://img.etnews.com/photonews/2007/1318145_20200708135700_715_0001.jpg"
+        }
       ],
       "star": 0
     }
