@@ -15,4 +15,5 @@ export default function Card({ card }) {
 const Wrapper = styled.div`
   border: 1px solid #333;
   flex: 1 1 20%;
+  height: 400px;
 `;
