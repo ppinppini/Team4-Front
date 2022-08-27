@@ -20,6 +20,7 @@ export default function Card({ card }) {
 const Wrapper = styled.div`
   height: 400px;
   width: 333px;
+  background-color: #aea77f;
   display: flex;
   flex-direction: column;
   border-radius: 30px;

@@ -1,4 +1,5 @@
 import styled from "@emotion/styled";
+import { useState } from "react";
 import { useRecoilValue } from "recoil";
 import { selectedRecipeState } from "../Atom";
 import Cards from "./Cards";
@@ -22,6 +23,7 @@ const Wrapper = styled.main`
   flex-direction: column;
   align-items: center;
   width: 85vw;
+  background-color: #0c0904;
   min-height: 100vh;
   margin-left: 15vw;
 `;

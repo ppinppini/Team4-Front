@@ -37,6 +37,8 @@ export default function Aside() {
 
 const Wrapper = styled.aside`
   width: 15vw;
+  background-color: #030303;
+  color: #aea77f;
   height: 100vh;
   border-right: 1px solid #333;
   position: fixed;
@@ -55,7 +57,6 @@ const Rank = styled.div`
 
 const Title = styled.div`
   height: 100px;
-  border-bottom: 1px solid #333;
   width: 100%;
   display: flex;
   align-items: center;

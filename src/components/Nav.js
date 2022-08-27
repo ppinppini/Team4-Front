@@ -57,13 +57,14 @@ export default function Nav() {
 }
 
 const Wrapper = styled.nav`
-  background-color: dodgerblue;
+  background-color: #030303;
   display: flex;
   justify-content: space-evenly;
   width: 85vw;
   position: fixed;
   height: 100px;
-  border-bottom: 1px solid #333;
+  border-bottom: 2px solid #aea77f;
+  color: #aea77f;
   div {
     font-size: 20px;
     display: flex;
