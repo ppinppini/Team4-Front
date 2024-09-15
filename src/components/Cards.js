@@ -15,7 +15,7 @@ export default function Cards() {
       .then((res) => {
         setCards(
           res.data.filter((e) => {
-            return e.category === currentCategory;
+            return e.category === parseInt(currentCategory);
           })
         );
       })

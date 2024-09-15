@@ -5,37 +5,50 @@ import { useRecoilState, useRecoilValue, useSetRecoilState } from "recoil";
 import { cardsState, currentCategoryState, selectedRecipeState } from "../Atom";
 
 export default function Modal() {
-  const [selectedRecipe, setSelectedRecipe] =
-    useRecoilState(selectedRecipeState);
+  const [selectedRecipe, setSelectedRecipe] = useRecoilState(selectedRecipeState);
   const currentCategory = useRecoilValue(currentCategoryState);
-  const data = useRecoilValue(cardsState).filter((e) => {
-    return e.id === selectedRecipe;
-  })[0];
-
+  const data = useRecoilValue(cardsState).filter((e) => e.id === selectedRecipe)[0]; // 선택한 레시피를 찾음
+  
   const setData = useSetRecoilState(cardsState);
-
   const [like, setLike] = useState(0);
 
   const addStar = async () => {
-    await axios
-      .patch("http://localhost:3001/recipes/" + selectedRecipe, {
+    try {
+      // 별점 증가 요청
+      await axios.patch("http://localhost:3001/recipes/" + selectedRecipe, {
         star: like + 1,
-      })
-      .then(async () => {
-        setLike(like + 1);
-        await axios.get("http://localhost:3001/recipes").then((res) => {
-          setData(
-            res.data.filter((e) => {
-              return e.category === currentCategory;
-            })
-          );
-        });
       });
+  
+      // 별점 상태 로컬 업데이트
+      setLike((prevLike) => prevLike + 1);
+  
+      // 서버에서 전체 레시피를 다시 가져와서 업데이트 (별점 반영된 최신 데이터)
+      const res = await axios.get("http://localhost:3001/recipes");
+      
+      // 전체 레시피 중 현재 카테고리의 레시피만 필터링하여 업데이트
+      const updatedData = res.data.filter((e) => e.category === currentCategory);
+      if (updatedData.length > 0) {
+        setData(updatedData); // cardsState 업데이트
+      } else {
+        console.error("해당 카테고리에 맞는 데이터가 없습니다.");
+      }
+    } catch (error) {
+      console.error("별점 추가 중 에러 발생:", error);
+    }
   };
+  
 
+  // useEffect로 선택된 레시피의 'like'를 설정
   useEffect(() => {
-    setLike(data.star);
-  }, []);
+    if (data) {
+      setLike(data.star);
+    }
+  }, [data]);
+
+  // 데이터가 존재하지 않으면 로딩 상태 혹은 빈 데이터를 처리
+  if (!data) {
+    return <div>Loading...</div>; // 로딩 중이거나 데이터가 없을 때 처리
+  }
 
   return (
     <Wrapper>
@@ -48,13 +61,12 @@ export default function Modal() {
         >
           ❌
         </Close>
-        <Img src={data.img} />
+        {/* 데이터가 존재할 때만 렌더링 */}
+        <Img src={data.img} alt={data.title} />
         <Title>{data.title}</Title>
         <Level>{data.level}</Level>
         <Star
-          onClick={() => {
-            addStar();
-          }}
+          onClick={addStar}
         >
           ❤ {like}
         </Star>
@@ -74,7 +86,7 @@ export default function Modal() {
             return (
               <Rec key={i}>
                 <h3>{e.name}</h3>
-                <img src={e.img} />
+                <img src={e.img} alt={e.name} />
               </Rec>
             );
           })}

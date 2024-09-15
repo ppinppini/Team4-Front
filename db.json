@@ -1,29 +1,29 @@
 {
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "title": "가족모임"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "혼술"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "먹죽"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "로맨틱"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "친구모임"
     }
   ],
   "recipes": [
     {
-      "id": 1,
+      "id": "1",
       "category": 1,
       "title": "순대볶음",
       "level": "난이도★★★★★",
@@ -59,10 +59,10 @@
           "img": "https://www.thinkfood.co.kr/news/photo/201911/85788_110660_2515.jpg"
         }
       ],
-      "star": 2
+      "star": 21
     },
     {
-      "id": 2,
+      "id": "2",
       "category": 1,
       "title": "닭 가슴살 양파 볶음",
       "level": "난이도★★★★★",
@@ -93,10 +93,10 @@
           "img": "https://file.mk.co.kr/meet/neds/2019/04/image_readtop_2019_210568_15544980623699031.jpg"
         }
       ],
-      "star": 11
+      "star": 61
     },
     {
-      "id": 3,
+      "id": "3",
       "category": 1,
       "title": "해물파전",
       "level": "난이도★★★★★",
@@ -123,10 +123,10 @@
           "img": "https://file.hitejinro.com/hitejinro2016/upFiles/brand/KR/PACKAGE/20200724_75645293.png"
         }
       ],
-      "star": 3
+      "star": 30
     },
     {
-      "id": 4,
+      "id": "4",
       "category": 1,
       "title": "대패 삽겹살 간장 볶음",
       "level": "난이도★★★★★",
@@ -156,10 +156,10 @@
           "img": "https://file.mk.co.kr/meet/neds/2020/05/image_readtop_2020_536855_15904607324214665.jpg"
         }
       ],
-      "star": 6
+      "star": 41
     },
     {
-      "id": 5,
+      "id": "5",
       "category": 1,
       "title": "비엔나 만두 강정 ",
       "level": "난이도★★★★★",
@@ -188,10 +188,10 @@
           "img": "https://img.hankyung.com/photo/202103/01.25853410.1.jpg"
         }
       ],
-      "star": 5
+      "star": 10
     },
     {
-      "id": 6,
+      "id": "6",
       "category": 1,
       "title": "떡꼬치",
       "level": "난이도★★★★★",
@@ -219,10 +219,10 @@
           "img": "https://img.hankyung.com/photo/202103/01.25853410.1.jpg"
         }
       ],
-      "star": 15
+      "star": 20
     },
     {
-      "id": 7,
+      "id": "7",
       "category": 1,
       "title": "바지락 술 찜",
       "level": "난이도★★★★★",
@@ -253,7 +253,7 @@
       "star": 8
     },
     {
-      "id": 17,
+      "id": "17",
       "category": 2,
       "title": "콘치즈",
       "level": "난이도★★★★★",
@@ -279,10 +279,10 @@
           "img": "http://m.assabeer.com/web/product/big/202011/8e193520ce630daf49022c416b8c5aab.jpg"
         }
       ],
-      "star": 0
+      "star": 44
     },
     {
-      "id": 18,
+      "id": "18",
       "category": 2,
       "title": "번데기탕",
       "level": "난이도★★★★★",
@@ -309,10 +309,10 @@
           "img": "https://image.newdaily.co.kr/site/data/img/2019/10/14/2019101400143_0.jpg"
         }
       ],
-      "star": 0
+      "star": 41
     },
     {
-      "id": 19,
+      "id": "19",
       "category": 2,
       "title": "식빵팝콘",
       "level": "난이도★★★★★",
@@ -335,10 +335,10 @@
           "img": "https://cphoto.asiae.co.kr/listimglink/6/2022020513462032706_1644036392.jpg"
         }
       ],
-      "star": 0
+      "star": 14
     },
     {
-      "id": 20,
+      "id": "20",
       "category": 2,
       "title": "오징어 버터구이",
       "level": "난이도★★★★★",
@@ -364,10 +364,10 @@
           "img": "https://m.hitejinro.com/assets/images/socialmedia/chamisul_fresh_bottle_new.png"
         }
       ],
-      "star": 0
+      "star": 8
     },
     {
-      "id": 21,
+      "id": "21",
       "category": 3,
       "title": "오뎅탕",
       "level": "난이도★★★★★",
@@ -398,10 +398,10 @@
           "img": "https://cdn.dailycnc.com/news/photo/202006/101986_197399_4053.jpg"
         }
       ],
-      "star": 0
+      "star": 7
     },
     {
-      "id": 22,
+      "id": "22",
       "category": 3,
       "title": "두부계란탕",
       "level": "난이도★★★★★",
@@ -431,10 +431,10 @@
           "img": "https://cdn.imweb.me/upload/S201805075af0125698fa0/49057e167ac81.png"
         }
       ],
-      "star": 0
+      "star": 1
     },
     {
-      "id": 23,
+      "id": "23",
       "category": 3,
       "title": "두부김치",
       "level": "난이도★★★★★",
@@ -464,10 +464,10 @@
           "img": "https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138398.jpg"
         }
       ],
-      "star": 0
+      "star": 6
     },
     {
-      "id": 24,
+      "id": "24",
       "category": 3,
       "title": "돼지고기 김치찌개",
       "level": "난이도★★★★★",
@@ -496,10 +496,10 @@
           "img": "https://cdn.pressm.kr/news/photo/202005/29992_17372_5158.jpg"
         }
       ],
-      "star": 0
+      "star": 4
     },
     {
-      "id": 25,
+      "id": "25",
       "category": 4,
       "title": "새우감바스",
       "level": "난이도★★★★★",
@@ -529,10 +529,10 @@
           "img": "https://mblogthumb-phinf.pstatic.net/MjAxOTA3MDRfMjc4/MDAxNTYyMjQ2MDU4NjU5.trwke9ONWynnm-77KHni57VDuqJVoD1gITxKxzpZwVMg.Nv4KFV_5mwD2e_ciTRohtbsmjI0ypEBeldzjkkOi_mUg.JPEG.stable_navel/%EC%95%A0%ED%94%8C_%ED%8F%AD%EC%8A%A4_%EC%82%AC%EC%9D%B4%EB%8B%A4.jpg?type=w800"
         }
       ],
-      "star": 0
+      "star": 8
     },
     {
-      "id": 26,
+      "id": "26",
       "category": 4,
       "title": "참치 카나페",
       "level": "난이도★★★★★",
@@ -561,10 +561,10 @@
           "img": "https://wine21.speedgabia.com/WINE_MST/TITLE/0142000/W0142835.jpg"
         }
       ],
-      "star": 0
+      "star": 10
     },
     {
-      "id": 27,
+      "id": "27",
       "category": 4,
       "title": "콘치즈 카레 나쵸",
       "level": "난이도★★★★★",
@@ -595,7 +595,7 @@
       "star": 0
     },
     {
-      "id": 28,
+      "id": "28",
       "category": 4,
       "title": "가지그라탕",
       "level": "난이도★★★★★",
@@ -628,7 +628,7 @@
       "star": 0
     },
     {
-      "id": 29,
+      "id": "29",
       "category": 5,
       "title": "골뱅이무침",
       "level": "난이도★★★★★",
@@ -663,7 +663,7 @@
       "star": 0
     },
     {
-      "id": 30,
+      "id": "30",
       "category": 5,
       "title": "크림새우",
       "level": "난이도★★★★★",
@@ -691,7 +691,7 @@
       "star": 0
     },
     {
-      "id": 31,
+      "id": "31",
       "category": 5,
       "title": "김치전",
       "level": "난이도★★★★★",
@@ -719,7 +719,7 @@
       "star": 0
     },
     {
-      "id": 32,
+      "id": "32",
       "category": 5,
       "title": "소세지 야채볶음",
       "level": "난이도★★★★★",
@@ -748,7 +748,7 @@
           "img": "https://img.etnews.com/photonews/2007/1318145_20200708135700_715_0001.jpg"
         }
       ],
-      "star": 0
+      "star": 5
     }
   ]
 }
