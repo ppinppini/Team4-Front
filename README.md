@@ -7,6 +7,7 @@
 
 
 - **ReactJS**: 프론트엔드 개발
+- **Styled-Component** : UI 스타일링
 - **Recoil**: 상태 관리
 - **Axios**: API 통신
 - **json-server**: 백엔드 서버 구축
